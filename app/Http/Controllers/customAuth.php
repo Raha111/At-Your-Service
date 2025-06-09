@@ -118,7 +118,7 @@ class customAuth extends Controller
         $order = order::where('status','=','Completed')->get();
         $total_revenue = 0;
         foreach($order as $order){
-            $total_revenue = $total_revenue + $order->charge;
+            $total_revenue = $total_revenue + (float) $order->charge;
         }
 
         $current_request = order::where('status','=','requested')->get()->count();
