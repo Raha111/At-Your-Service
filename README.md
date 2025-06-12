@@ -19,6 +19,11 @@ Major controllers include `AdminController` and `customAuth` under `app/Http/Con
 - MySQL or another compatible database
 - Composer for dependency management
 
+## Demo
+
+[![Watch the demo]([https://youtu.be/VIDEO_ID](https://youtu.be/CRwgwafrHyw?si=a1JN9y3aaWldx52r))
+
+
 ## Getting Started
 
 1. Clone the repository.
