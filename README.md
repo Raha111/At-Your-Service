@@ -21,7 +21,7 @@ Major controllers include `AdminController` and `customAuth` under `app/Http/Con
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/CRwgwafrHyw/hqdefault.jpg)](https://youtu.be/CRwgwafrHyw)
+[![Watch the demo](https://img.youtube.com/vi/YyiW6EKmJuU?si=g-X5NM8sfoQEm9XQ/hqdefault.jpg)](https://youtu.be/YyiW6EKmJuU?si=g-X5NM8sfoQEm9XQ)
 
 
 
